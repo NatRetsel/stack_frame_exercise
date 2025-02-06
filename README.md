@@ -1,5 +1,5 @@
 # stack_frame_exercise
-A simple program illustrating the memory address offset of stack frames in nested function calls and the allocation and deallocation of stack frames in successive function calls. Learning journal documented here.
+A simple program illustrating the memory address offset of stack frames in nested function calls and the allocation and deallocation of stack frames in successive function calls. Learning journal documented [here](https://medium.com/@natretsel/program-memory-layout-stack-and-heap-0e644bab7462).
 
 ## Nested stack frame exercise
 Exercise illustrates the creation of new stack frames by computing the offset of each function's frame address in a nested function call of similar functions.
